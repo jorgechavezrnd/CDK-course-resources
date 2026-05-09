@@ -13,6 +13,18 @@ A full CDK backend application built from scratch (without `cdk init`). Implemen
 ### [space-finder-frontend](https://github.com/jorgechavezrnd/space-finder-frontend)
 Frontend web application for the Space Finder project. Built to be deployed on AWS and integrated with the Space Finder backend services provisioned via AWS CDK.
 
+## Cloning with Submodules
+
+To clone this repository and download all submodules in a single command:
+```bash
+git clone --recurse-submodules https://github.com/jorgechavezrnd/CDK-course-resources.git
+```
+
+If you already cloned the repo and the submodules are empty, run:
+```bash
+git submodule update --init --recursive
+```
+
 ## Updating Submodules
 
 ### Update all submodules to the latest changes
