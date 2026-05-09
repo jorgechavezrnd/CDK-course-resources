@@ -1,0 +1,9 @@
+[submodule "cdk-starter"]
+	path = cdk-starter
+	url = https://github.com/jorgechavezrnd/cdk-starter.git
+[submodule "space-finder"]
+	path = space-finder
+	url = https://github.com/jorgechavezrnd/space-finder.git
+[submodule "space-finder-frontend"]
+	path = space-finder-frontend
+	url = https://github.com/jorgechavezrnd/space-finder-frontend.git
